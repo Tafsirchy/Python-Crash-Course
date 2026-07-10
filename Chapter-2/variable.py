@@ -8,3 +8,4 @@ name = "Tafsir"
 print(a + b)
 print(c)
 print(name)
+
