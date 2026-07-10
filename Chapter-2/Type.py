@@ -18,3 +18,8 @@ print(type(c))
 str(31) # integer to string conversion
 int("32") # string to integer conversion
 float(32) # integer to float conversion
+
+
+x = "31.2"
+y = float(x) # convert string to float
+print(type(y))
