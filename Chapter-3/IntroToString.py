@@ -11,3 +11,8 @@ print(name[1:5]) # get characters from index 1 to 6
 
 print(name[:6]) # get characters from index 0 to 6
 print(name[1:]) # get characters from index 1 to the end of the string
+
+string = "Hello...Tafsir!!!"
+string[1:5:2] # get characters from index 1 to 5 with a step of 2
+print(string[1:16:2]) # get characters from index 1 to 16 with a step of 2
+
